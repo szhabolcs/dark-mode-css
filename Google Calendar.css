@@ -14,6 +14,11 @@ body{
   background: var(--secondary-dark);
 }
  
+/* Apps sidebar fix */
+.Kk7lMc-Ku9FSb-DWWcKd-OomVLb, div.Kk7lMc-QWPxkf-LgbsSe-haAclf {
+  background-color: var(--secondary-dark);
+}
+
 /* Month view items fix */
 .ifwtOb > div:first-child{
   border-color: #c3c3c321 !important;

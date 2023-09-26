@@ -3,6 +3,16 @@ body {
     color: #fff;
 }
  
+/* set cards to be centered */
+.JwPp0e{
+  justify-content: center;
+}
+
+/* pdf fix */
+div.ndfHFb-c4YZDc-cYSp0e.ndfHFb-c4YZDc-oKVyEf > div.ndfHFb-c4YZDc-cYSp0e-s2gQvd.ndfHFb-c4YZDc-s2gQvd > div{
+  /* filter: invert(0.899); */
+}
+
 /* Gray text fixes */
 .YVvGBb, .z3vRcc, .VfPpkd-uusGie-fmcmS-haAclf{
   color: #fff;
@@ -71,7 +81,7 @@ a:visited {
 .kCtYwe {
     border-color: #4c4c4c !important;
 }
-.ETRkCe {
+.ETRkCe, .OX4Vcb {
     background-color: #3c3c3c !important;
 }
 .DShyMc-AaTFfe .Xi8cpb.qs41qe .LlcfK, .bFjUmb-Ysl7Fe, .VUoKZ {
